@@ -45,4 +45,4 @@ The Associate Dean (or arbiter) shall render a decision to the student as prompt
 possible, preferably within 2 weeks of receiving the appeal.
 
 
-<sub>Excerpt from https://files.upei.ca/science/mathcompsci/smcs_academic_appeal_policy.pdf>/sub>
+<sub>Excerpt from https://files.upei.ca/science/mathcompsci/smcs_academic_appeal_policy.pdf</sub>
