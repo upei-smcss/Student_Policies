@@ -17,7 +17,7 @@ the School of Mathematical and Computational Sciences (in lieu of a Chair), unde
 Academic Regulation 12 of the UPEI Calendar.
 
 As per Academic Regulation 12, the student must make the appeal, in writing using the
-SMCS Academic Appeal Form, within one week of the instructor’s decision on the
+[SMCS Academic Appeal Form], within one week of the instructor’s decision on the
 informal appeal. This must contain a detailed rationale for the appeal. Appeals must be
 based on the principle(s) of bias and/or unfairness (typically with respect to the grading
 process) that have not been addressed by the instructor, and the reasoning behind the
