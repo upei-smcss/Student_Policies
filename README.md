@@ -1,3 +1,13 @@
+Other Relevant Links: 
+---
+Academic Regulations 1(k)
+List of Major Courses
+Challenge for Credit Policy
+Course Transfer Policy
+Honours Policy
+
+---
+
 <h1>Procedure for Academic Appeals</h1>
 
 <h2>School of Mathematical and Computational Sciences (Approved April 3, 2017)</h2>
