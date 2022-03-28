@@ -1,0 +1,76 @@
+<h1>Major Courses (minimum 42 credit hours) to be used for Double Counting Regulation </h1>
+
+<h2>Math Major Stats Major CS Major CS with VGPS<h2>
+Math 1910 Stat 1910 CS 1610 CS 1610
+Math 1920 Stat 2910 CS 1910 CS 1910
+Math 2910 Stat 3910 CS 1920 CS 1920
+Math 2420 Stat 3240 CS 2520 CS 2520
+Math 2610 Stat 4550 CS 2910 CS 2910
+Math 2620 Stat 4240 CS 2920 CS 2920
+Math 2720 Stat 4330 CS 2620 CS 2620
+Math 3510 Stat 4110 CS 2820 CS 2820
+Math 3610 Stat 4410 MCS 3320 CS 3110
+Math 3010, Stat
+2910 or Math 3310
+Math 2910 CS 3420 CS 3130
+Math 2620 CS 3520 MCS 3320
+Math 2720 CS 3610 CS 3420
+5 electives in
+School
+2 electives in
+School
+CS 3620 CS 3520
+CS 3710 CS 3610
+CS 4810 CS 3620
+CS 4820 or
+CS 4840
+CS 3710
+CS 4350
+CS 4360
+At least 2 of
+CS 4060, CS 4120,
+CS 4440, CS 4610
+CS 4810
+CS 4830
+  
+  
+<h2>Data Analytics Business Analytics Actuarial Science</h2>
+(Fall 2019 version)
+Financial Math
+Math 2420 Math 2420 AMS 2160 AMS 2160
+Math 3420 Math 3420 AMS 2410 AMS 2410
+AMS 2940 AMS 2940 AMS 3410 AMS 3410
+AMS 3770 AMS 3770 AMS 2510 AMS 3310
+AMS 3910 AMS 3910 AMS 3510 AMS 3910
+Math 3010 Math 3010 AMS 3310 AMS 4080
+Math 3610 Math 3610 AMS 4540 AMS 4090
+Stat 3910 Stat 3910 AMS 4550 Math 3010
+Stat 3240 Stat 3240 AMS 4700 Math 3510
+Stat 4550 Stat 4660 AMS 4580 Stat 3240
+Stat 4660 CS 3710 Stat 3240 Stat 3910
+CS 3710 CS 4120 Stat 3910 Stat 4330
+CS 4120 CS 4440 Stat 4110 or Stat 4330 Stat 4410
+CS 4440 At least 5 of (list of
+BUSINESS COURSES
+– see calendar)
+Stat 4410 or Stat 4280 MCS 3920
+  
+  <h2>Math Honours Stats Honours CS Honours</h2>
+Math 1910 Stat 1910 CS 1610
+Math 1920 Stat 2910 CS 1910
+Math 2910 Stat 3910 CS 1920
+Math 2420 Stat 3240 CS 2520
+Math 2610 Stat 4550 CS 2910
+Math 2620 Stat 4240 CS 2920
+Math 2720 Stat 4330 CS 2620
+Math 3010 Stat 4110 CS 2820
+Math 3310 Stat 4410 MCS 3320
+Math 3510 Math 2910 CS 3420
+Math 3610 Math 2620 CS 3520
+Stat 2910 Math 2720 CS 3610
+MCS 4900 MCS 4900 CS 3620
+CS 3710
+4 SMCS electives 2 SMCS electives At least one of
+CS 4110, CS 4120
+CS 4810
+MCS 4900
