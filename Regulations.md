@@ -12,4 +12,4 @@ For each major within SMCS, the School has determined a list of major courses (m
 hours) to be used in the application of the above regulation. Thus for any specific major, the courses on
 that major’s list may only be double-counted with at most six semester hours of credit from a minor or
 at most nine semester hours of credit from another major. 
-[The lists for the SMCS majors are given on the accompanying sheet](MajorCourses.md)
+[The lists for the SMCS majors are given on the accompanying sheet](https://files.upei.ca/smcs/list_of_major_courses_double_counting.pdf)
